@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd5824e9.css",
-    "main.js": "/static/js/main.f9a5558c.js",
-    "static/media/fifazgattal.mp4": "/static/media/fifazgattal.1ea4709d47fd0bcb5b42.mp4",
-    "static/media/bg.jpg": "/static/media/bg.7241cce640d6463a58f7.jpg",
-    "index.html": "/index.html",
-    "main.bd5824e9.css.map": "/static/css/main.bd5824e9.css.map",
-    "main.f9a5558c.js.map": "/static/js/main.f9a5558c.js.map"
+    "main.css": "/fifazgattal/static/css/main.ac1d032e.css",
+    "main.js": "/fifazgattal/static/js/main.163637e2.js",
+    "static/media/fifazgattal.mp4": "/fifazgattal/static/media/fifazgattal.1ea4709d47fd0bcb5b42.mp4",
+    "static/media/bg.jpg": "/fifazgattal/static/media/bg.7241cce640d6463a58f7.jpg",
+    "index.html": "/fifazgattal/index.html",
+    "main.ac1d032e.css.map": "/fifazgattal/static/css/main.ac1d032e.css.map",
+    "main.163637e2.js.map": "/fifazgattal/static/js/main.163637e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd5824e9.css",
-    "static/js/main.f9a5558c.js"
+    "static/css/main.ac1d032e.css",
+    "static/js/main.163637e2.js"
   ]
 }
